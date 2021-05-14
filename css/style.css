@@ -646,6 +646,8 @@ textarea.form-control {
 
 .hover-shadow:hover {
   box-shadow: 0px 18px 40px 8px rgba(224, 241, 255, 0.54) !important;
+  background-color: lightskyblue;
+  color: white;
 }
 
 /* /service */
